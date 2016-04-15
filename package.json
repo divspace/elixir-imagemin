@@ -1,0 +1,42 @@
+{
+  "name": "elixir-imagemin",
+  "description": "Laravel Elixir wrapper around imagemin Gulp task.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kyle Anderson",
+    "email": "kyle@divspace.com"
+  },
+  "bugs": {
+    "url": "https://github.com/divspace/elixir-imagemin/issues",
+    "email": "kyle@divspace.com"
+  },
+  "dependencies": {
+    "gulp-changed": "^1.3.0",
+    "gulp-imagemin": "^2.3.0",
+    "imagemin-pngquant": "^4.1.2",
+    "underscore": "^1.8.3"
+  },
+  "homepage": "https://github.com/divspace/elixir-imagemin",
+  "keywords": [
+    "elixir",
+    "gulp",
+    "laravel",
+    "imagemin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/divspace/elixir-imagemin"
+  },
+  "peerDependencies": {
+    "laravel-elixir": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/divspace/elixir-imagemin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
